@@ -1,6 +1,6 @@
 # techreview_arxiv_scrape
 
-The data and partial code behind the story <a href='https://www.technologyreview.com/s/612768/we-analyzed-16625-papers-to-figure-out-where-ai-is-headed-next/'>We analyzed 16,625 papers to figure out where AI is headed next</a> on <a href='https://www.technologyreview.com/'>MIT Technology Review</a>.
+The data and partial code behind the story "<a href='https://www.technologyreview.com/s/612768/we-analyzed-16625-papers-to-figure-out-where-ai-is-headed-next/'>We analyzed 16,625 papers to figure out where AI is headed next</a>" on <a href='https://www.technologyreview.com/'>MIT Technology Review</a>.
 
 ## Files
 * `arxivscraper.py`: A modified version of <a href='https://github.com/Mahdisadjadi/arxivscraper'>Mahdisadjadi/arxivscraper</a>
