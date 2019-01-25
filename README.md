@@ -6,7 +6,7 @@ The data and partial code behind the story "<a href='https://www.technologyrevie
 * `arxivscraper.py`: A modified version of <a href='https://github.com/Mahdisadjadi/arxivscraper'>Mahdisadjadi/arxivscraper</a>
 * `arxivscraper_all_cs_ai.ipynb`: The code for scraping metadata from the arXiv
 * `cs_ai_through_2018-11-18.csv`: The metadata for all scientific papers published to the AI section of the arXiv through November 18, 2018
-* `arxivscraper_ai_only_analysis.ipynb`: The code for calculating the terms with the greatest losses and gains in the top 100 words & bigrams
+* `arxivscraper_ai_only_analysis.ipynb`: The code for counting all of the words and ngrams by year, and for calculating those with the greatest losses and gains
 
 ## Data columns
 * `id`: arXiv paper id
